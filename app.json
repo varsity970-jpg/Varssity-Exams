@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Varssity Exams",
+    "slug": "varssity-exams",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.varssity.exams",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#111827"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.varssity.exams"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
